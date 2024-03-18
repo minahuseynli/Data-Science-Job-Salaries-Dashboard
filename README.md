@@ -1,7 +1,13 @@
 
 #  Salary Analytics Dashboard
 
-This project aims to provide comprehensive insights into salary data across various dimensions, catering to both job seekers and employers. The dashboard includes:
+This project aims to provide comprehensive insights into salary data across various dimensions, catering to both job seekers and employers.
+
+## 🔗 Link 
+https://public.tableau.com/app/profile/minaya.huseynli/viz/Salaries_17098303907980/Dashboard1
+
+
+ The dashboard includes:
 
 #### Average Salary in USD by Experience Level and Employment Type:
  Visualizes the average salary based on the experience level (e.g., entry-level, mid-level, senior) and employment type (e.g., full-time, part-time, contract).
